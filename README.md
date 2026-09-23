@@ -12,7 +12,7 @@ python -m unittest discover -s tests -v
 python -m laya_a2a.demo
 ```
 
-On Windows PowerShell, activate the environment using `.venv\\Scripts\\Activate.ps1`.
+On Windows PowerShell, activate the environment using `.venv\Scripts\Activate.ps1`.
 
 To run the real Laya checkpoint in a separate Python environment with network access and adequate RAM/VRAM:
 
